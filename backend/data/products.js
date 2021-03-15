@@ -1,6 +1,5 @@
 const products = [
 {
-    _id: '1',
     name: 'THISOWNED white logo t-shirt with problem child back print',
     image: '/website/white_tshirt.JPG',
     description: 'Here you have all that you can ever want in one tee.',
@@ -12,7 +11,6 @@ const products = [
     rating: 5,
 },
 {
-    _id: '2',
     name: 'THISOWNED white logo t-shirt with godfather back print',
     image: '/website/white_tshirt.JPG',
     description: 'Have your hero and role model on your back at all times.',
@@ -24,7 +22,6 @@ const products = [
     rating: 5,
 },
 {
-    _id: '3',
     name: 'THISOWNED refelective black logo t-shirt',
     image: '/website/black_tshirt_front.JPG',
     description: 'The only one that can stop your shine is yourself.',
@@ -36,7 +33,6 @@ const products = [
     rating: 5,
 },
 {
-    _id: '4',
     name: 'THISOWNED black Johny Bravo t-shirt with reflective front',
     image: '/website/black_tshirt_duo.JPG',
     description: 'There you go. The shirt that you have been waiting for...',
@@ -48,7 +44,6 @@ const products = [
     rating: 5,
 },
 {
-    _id: '5',
     name: 'THISOWNED ultraspective glasses',
     image: '/website/black_tag.JPG',
     description: 'The ultimate guide to personal vision!',
@@ -60,7 +55,6 @@ const products = [
     rating: 5,
 },
 {
-    _id: '6',
     name: 'THISOWNED Jacket with stones',
     image: '/website/all_colors.GIF',
     description: 'Here you have all that you can ever want in one tee.',
