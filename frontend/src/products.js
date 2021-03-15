@@ -7,7 +7,7 @@ const products1 = [
     brand: 'THISOWNED',
     category: 'Streetwear',
     price: 27.99,
-    countInStock: 3,
+    countInStock: 0,
     numReviews: 4,
     rating: 5,
 },
