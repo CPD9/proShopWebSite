@@ -1,4 +1,4 @@
-// wishlish model will be similar to this
+// wishlist model will be similar to this
 import mongoose from 'mongoose'
 
  const orderSchema = mongoose.Schema(
