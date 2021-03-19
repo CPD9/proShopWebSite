@@ -1,4 +1,4 @@
-const products1 = [
+const products = [
 {
     _id: '1',
     name: 'THISOWNED white logo t-shirt with problem child back print',
@@ -73,4 +73,4 @@ const products1 = [
 }
 ]
 
-export default products1
+export default products
